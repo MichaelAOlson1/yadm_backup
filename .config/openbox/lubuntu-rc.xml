@@ -395,7 +395,7 @@
       </action>
     </keybind>
     <keybind key="W-A-D">
-        <action name="ToggleDecorations"></action>
+      <action name="ToggleDecorations"/>
     </keybind>
     <keybind key="A-F2">
       <action name="Execute">
